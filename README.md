@@ -30,7 +30,7 @@ You can refine the count by cleaning the string prior to splitting or validating
 End the program.
 
 ## PROGRAM:
-
+```
 DEVELOPED BY:  naresh.r
 REFERENCE NUMBER: 23005559
 num_words =0
@@ -40,7 +40,7 @@ with open('text.txt','r') as file1:
         word =i.split()
         num_words += len(word)
 print("Number of words={}".format(num_words))
-
+```
 
 ### OUTPUT:
 ![Screenshot 2023-12-25 111019](https://github.com/feryjfgkuyfgewjfgew/Word-count/assets/150319377/9f95c64b-28f2-4cd8-aa7d-5527f883dfaf)
