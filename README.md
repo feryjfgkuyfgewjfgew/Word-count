@@ -31,8 +31,8 @@ End the program.
 
 ## PROGRAM:
 
-## DEVELOPED BY:  naresh.r
-## REFERENCE NUMBER: 23005559
+DEVELOPED BY:  naresh.r
+REFERENCE NUMBER: 23005559
 num_words =0
 file1 = open("text.txt", "r")
 with open('text.txt','r') as file1:
@@ -43,8 +43,9 @@ print("Number of words={}".format(num_words))
 
 
 ### OUTPUT:
-![](<Screenshot 2023-12-25 111019.png>)
+![Screenshot 2023-12-25 111019](https://github.com/feryjfgkuyfgewjfgew/Word-count/assets/150319377/9f95c64b-28f2-4cd8-aa7d-5527f883dfaf)
 
-![Alt text](<Screenshot 2023-12-25 111028.png>)
+![Screenshot 2023-12-25 111028](https://github.com/feryjfgkuyfgewjfgew/Word-count/assets/150319377/28c87a05-d10e-4720-84f7-051f7d7db50f)
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
